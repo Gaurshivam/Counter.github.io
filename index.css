@@ -1,0 +1,38 @@
+body{
+    background:linear-gradient(60deg,red,green)
+
+}
+#container{
+    border-radius: 7px;
+    height: 200px;
+    width: 500px;
+    border: 7px solid rgb(22, 4, 4);
+    margin:  auto;
+    margin-top: 0px;
+    background:linear-gradient(45deg,red,black);
+}
+ 
+
+#number {
+    height:25px;
+    width: 250px;
+    margin:auto;
+    margin-top: 50px;
+    border: 1px solid rgb(182, 18, 18);
+    text-align: center;
+    background-color: white;
+}
+#increase{
+    height:25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 125px;
+}
+ 
+#decrease{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
